@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    background-color: darksalmon;
+}
+body{
+    background-color: beige;
+}
+p
+{
+    color: black;
+    text-align: justify;
+}
+h3{
+    color: red;
+}
+div{
+    margin: auto;
+    width: min-content;
+    height: 450px;
+}
+.img{
+    margin: auto;
+    width: 400px;
+
+}
+#img1{
+    margin: auto;
+    margin-left: 34%;
+    width: 400px;
+
+}
+h2{
+    text-align: center;
+}
